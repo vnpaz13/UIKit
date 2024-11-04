@@ -1,0 +1,22 @@
+api 호출과 설정
+
+
+
+
+https://performance-partners.apple.com/search-api
+
+-------------------------------------------------
+
+https://itunes.apple.com/search?term=marvel&media=movie
+
+# https://itunes.apple.com/search?media=music&term=kpop
+
+-------------------------------------------------
+
+https://www.postman.com/downloads/
+
+-------------------------------------------------
+
+app.quicktype.io
+
+
